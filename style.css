@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+#picture {
+    width: 500px;
+    border: silver 5px double;
+    border-radius: 10px;
+}
+
+#name {
+    color: gray;
+}
+
+#properties {
+    background-color: #eeffee;
+    border: green 1px solid;
+}
+
+#properties dt {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.red {
+    color: red;
+}
